@@ -1,43 +1,35 @@
-# AZ-104: Microsoft Azure Administrator
+AZ-104: Maamulaha Microsoft Azure
+Soo Dhaweyn
+Kaydkan waxaa loogu talagalay macallimiinta dhigaya koorsada Microsoft Azure Administrator. Haddii aad fasal joogto, fadlan la xiriir macallinkaaga si aad u hesho caawimaad.
 
-## Welcome
+Xiriirka Shaybaarada (Qaabka HTML)
 
-This repository is for instructors teaching Microsoft courses. If you are in class, please ask your instructor for assistance. 
+Ma tahay MCT (Macallin Shahaadaysan Microsoft)? – Ka eeg Hagaha Isticmaalka GitHub ee MCTs
 
-- **[Link to labs (HTML format)](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)**
-- **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
-- To preview this course in a self-paced format, see our **[interactive lab simulations](https://mslabs.cloudguides.com/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator)**. You may find slight differences between the interactive simulations and the hosted labs, but the core concepts and ideas being demonstrated are the same.
+Si aad koorsadan u eegto qaab is-barasho ah, booqo Tijaabooyinka Shaybaarada Is-dhexgalka ah. Waxaa jiri kara kala duwanaansho yar oo u dhexeeya tijaabooyinka is-dhexgalka ah iyo shaybaarada la martigeliyay, balse fikradaha guud waa isku mid.
 
-## Security Issue - April 2023
+Arrin Amni – Abriil 2023
+Laga bilaabo hadda, erayga sirta ah ee Admin-ka waxaa laga saarayaa faylasha JSON ee xuduudaha template-ka. Taas micnaheedu waa in ardaydu ay qasban yihiin inay si toos ah u geliyaan eray sir ah marka template-ka la hawlgelinayo. Tani waxay saameyneysaa Shaybaarada 4, 5, 6, 7, 10 iyo 11. Tilmaamaha shaybaarada ayaa la cusbooneysiin doonaa si ay isugu waafaqaan isbeddelkan.
 
-Effective immediately, the Admin password will be removed from the JSON template parameter files. This means students will have to provide a password when the template is deployed. This effects Labs 4, 5, 6, 7, 10 and 11.  The lab instructions will be changed to reflect this change. 
+Maxaan Sameyneynaa?
+Si loo taageero koorsadan, waxaan si joogto ah u cusbooneysiin doonaa nuxurka si uu ula jaanqaado adeegyada Azure ee la isticmaalayo. Waxaan ku daabaceynaa tilmaamaha shaybaarada iyo faylasha GitHub si ay u suurtagasho iskaashi furan oo u dhexeeya qorayaasha koorsada iyo MCTs.
 
-## What are we doing?
+Waxaan rajeyneynaa in tani ay keento iskaashi dhab ah oo ku saabsan shaybaarada – marka Azure isbeddesho oo aad adigu ugu horreysid inaad aragto inta lagu jiro fasal toos ah, si toos ah u hagaaji faylka shaybaarka. Ka caawi MCT-yada kale.
 
-- To support this course, we will need to make frequent updates to the course content to keep it current with the Azure services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
+Sidee Loo Isticmaalaa Faylashan Marka Loo Eego Faylasha Rasmiga ah ee MOC?
+Buugga macallinka iyo PowerPoint-yada ayaa weli ah ilaha ugu muhiimsan ee lagu barayo nuxurka koorsada.
 
-- We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source.  Help your fellow MCTs.
+Faylashan GitHub-ka ku jira waxaa loogu talagalay in lala isticmaalo buugga ardayga, balse waxaa lagu kaydiyay GitHub si ay u noqdaan meel dhexe oo MCTs iyo qorayaasha koorsadu ay si wadajir ah uga heli karaan faylasha shaybaarada ugu dambeeyay.
 
-## How should I use these files relative to the released MOC files?
+Waxaa lagula talinayaa in tababarayaashu ay mar kasta hubiyaan GitHub kahor bixinta koorsada si ay u helaan isbeddelada ugu dambeeyay ee taageeraya adeegyada Azure.
 
-- The instructor handbook and PowerPoints are still going to be your primary source for teaching the course content.
+Sidee Loo Wadaagaa?
+MCT kasta wuu soo gudbin karaa codsi isbeddel (pull request) oo ku saabsan koodhka ama nuxurka GitHub-ka. Microsoft iyo qoraha koorsada ayaa dib u eegaya oo ku daraya isbeddelada lagama maarmaanka ah.
 
-- These files on GitHub are designed to be used in conjunction with the student handbook, but are in GitHub as a central repository so MCTs and course authors can have a shared source for the latest lab files.
+Waxaad soo gudbin kartaa khaladaad, isbeddelo, horumarin iyo fikrado. Ma helayso adeeg cusub oo Azure ah kahor annaga? Soo gudbi demo cusub!
 
-- It will be recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Azure services, and get the latest files for their delivery.
+Maxaa Laga Yahay Buugga Ardayga?
+Kaydkan waxaa loogu talagalay oo keliya arrimaha la xiriira shaybaarada koorsada. Waxaad soo gudbin kartaa jawaab celin ama sixitaan ku saabsan nuxurka koorsada. Fadlan isticmaal xiriirka reporting an issue ee ku yaalla dhamaadka bog kasta.
 
-## How do I contribute?
-
-- Any MCT can submit a pull request to the code or content in the GitHub repro, Microsoft and the course author will triage and include content and lab code changes as needed.
-
-- You can submit bugs, changes, improvement and ideas.  Find a new Azure feature before we have?  Submit a new demo!
-
-## What about changes to the student handbook?
-
-- This repository is only for Issues with the course labs. You can submit feedback or corrections on the [course content](https://docs.microsoft.com/learn/certifications/courses/az-104t00). Please use the _reporting an issue_ link at the bottom of each content page.
-
-## Notes
-
-### Classroom Materials
-
-It is strongly recommended that MCTs and Partners access these materials and in turn, provide them separately to students.  Pointing students directly to GitHub to access Lab steps as part of an ongoing class will require them to access yet another UI as part of the course, contributing to a confusing experience for the student. An explanation to the student regarding why they are receiving separate Lab instructions can highlight the nature of an always-changing cloud-based interface and platform. Microsoft Learning support for accessing files on GitHub and support for navigation of the GitHub site is limited to MCTs teaching this course only.
+Xusuusin: Qalabka Fasalka
+Waxaa si xooggan lagula talinayaa in MCTs iyo Wada-hawlgalayaashu ay si gaar ah u helaan qalabkan oo ay si gaar ah ugu gudbiyaan ardayda. In ardayda si toos ah loogu tilmaamo GitHub si ay u helaan tallaabooyinka shaybaarada inta lagu jiro fasalka waxay u baahan tahay inay la qabsadaan UI kale oo cusub, taasoo keeni karta jahwareer. Sharaxaad la siiyo ardayga sababta loogu gudbinayo tilmaamo gaar ah waxay muujin kartaa dabeecadda isbeddel joogto ah ee madal daruuriga ah. Taageerada Microsoft Learning ee helitaanka faylasha GitHub iyo hagista mareegta GitHub waxaa loogu talagalay oo keliya MCTs dhigaya koorsadan.
